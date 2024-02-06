@@ -1,1 +1,1 @@
-# bookbot
+# bookbot is a python project that performs static analysis on text files.
